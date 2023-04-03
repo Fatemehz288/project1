@@ -1,0 +1,118 @@
+p{font-family: 'Dancing Script', cursive;
+font-family: 'Itim', cursive;
+font-family: 'Lobster', cursive;}
+.img1{
+    width: 700px;
+    height: 500px;
+}
+.paragraf{
+    position: absolute;
+    left: 22px;
+    top: 100px;
+    color:white;
+}
+.border1{
+    width:52px;
+    height:8px;
+    position: absolute;
+    top: 125px;
+    left: 30px;
+}
+.paragraf1{
+    position: absolute;
+    top: 150px;
+    left: 20px;    
+    color: white;
+    
+}
+.button1{
+    position: absolute;
+    top: 250px;
+    left:20px;
+    font-size: 8PX;
+}
+.Aimg{
+    width: 80px;
+    height: 80px;
+    
+}
+.letter{
+    width: 80px;
+    height: 80px;
+    
+}
+.section2p{
+    font-size: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section2f{
+    font-family: 'Courier New', Courier, monospace;
+}
+.section2code{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section2p2{
+    font-size: 12px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.section3{
+    background-image: url(images/skystarly.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section3c2{
+    font-size: 10px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fontdata{
+    font-size: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fontp{
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section3c3{
+    font-size: 10px;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section3c4{
+    font-size: 10px;
+    color: goldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section4brder{
+    border:5px dotted red;
+}
+.section5col1{
+    background-color:#FFDE00;
+
+}
+.section5col2{
+    background-color:#FF8400;
+
+}
+.section5col3{
+    background-color:#E90064;
+
+}
+.section5col4{
+    background-color:#FF5858;
+
+}
+.button2{
+    font-size: 9PX;
+
+}
+.section6p{
+    font-size: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.myfooter{
+    font-size: 12px;
+    background-color: #C9EEFF;
+    text-align: center;
+}
